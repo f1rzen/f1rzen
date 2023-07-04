@@ -1,4 +1,5 @@
-### Hi there 👋
+###
+Merhaba👋
 
 <!--
 **f1rzen/f1rzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hacettepe Satistics 2019
+Currently learning rust 🦀
