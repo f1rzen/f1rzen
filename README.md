@@ -1,5 +1,5 @@
 ## Hi👋
-### I'm İlkay Şafak Baytar! I'm a web developer and statistician with a passion for crafting engaging web experiences. I specialize in web development, data analysis, and visualization. Let's connect and collaborate on your next project!
+ I'm İlkay Şafak Baytar! I'm a web developer and statistician with a passion for crafting engaging web experiences. I specialize in web development, data analysis, and visualization. Let's connect and collaborate on your next project!
 
 ### Hacettepe Satistics 2019
 
