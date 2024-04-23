@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ilkay--me.vercel.app-blue)](https://ilkay-me.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilkay--baytar-blue)](www.linkedin.com/in/ilkay-baytar)
 
 
 
 ### My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,svelte,cloudflare,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,svelte,cloudflare,py,rust)](https://skillicons.dev)
