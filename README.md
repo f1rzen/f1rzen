@@ -3,7 +3,6 @@
 
 ### Hacettepe Satistics 2019
 
-### Currently learning rust 🦀
 
 
 
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 
 
 ### My Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,svelte,cloudflare,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,svelte,cloudflare,py,r)](https://skillicons.dev)
