@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 ### My Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,tailwind,svelte,cloudflare,py,r)](https://skillicons.dev)
+![snake gif](https://github.com/f1rzen/f1rzen/blob/output/github-contribution-grid-snake.gif)
